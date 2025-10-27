@@ -1,5 +1,3 @@
-
-Main.java
 import java.util.Scanner;
 public class CalculoMedias {
     public static void main(String[] args) {
